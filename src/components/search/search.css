@@ -1,0 +1,33 @@
+input {
+    width: 25rem;
+    height: 2rem;
+    border-radius: 10rem;
+    padding: 1rem 3rem;
+    background-color: transparent;
+    outline: none;
+    font-size: 1.5rem;
+    border: 1px solid #fff;
+    color: #fff;
+}
+button {
+    border-radius: 10rem;
+    padding: 1.2rem 1.4rem;
+    outline: none;
+    font-size: 1.3rem;
+    margin-left: -4rem;
+}
+@media only screen and (max-width: 600px) {
+    input {
+        width: 15rem;
+    }
+}
+@media only screen and (max-width: 400px) {
+    input {
+        width: 10rem;
+        height: 1rem;
+        font-size: 1rem;
+    }
+    button {
+        padding: 1rem 1.3rem;
+    }
+}

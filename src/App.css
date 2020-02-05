@@ -1,0 +1,55 @@
+:root {
+    --cp: rgba(15, 15, 15, 0.938);
+    --cpl: rgba(5, 5, 5, 0.87);
+    --csl: rgb(128, 245, 112);
+    --cs: rgba(14, 94, 3, 0.562);
+}
+
+body {
+    background-image: linear-gradient(to right, var(--cpl), var(--cp)), url(./dic.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+}
+.results {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+    grid-gap: 2rem;
+    padding: 2rem;
+}
+.result {
+    background-color: var(--cs);
+    color: white;
+    padding: 0 1rem;
+}
+.result .party {
+    font-size: 2rem;
+    text-align: center;
+}
+footer {
+    background-color: black;
+    color: gray;
+    font-size: .8rem;
+    padding: 1rem 0;
+    text-align: center;
+    justify-self: flex-end;
+}
+
+.loader {
+    display: none;
+    width: 5rem;
+    margin-top: 2rem;
+}
+.load {
+    align-self: center;
+    margin: 2rem auto;
+    display: block;
+    text-align: center;
+}
