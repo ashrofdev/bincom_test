@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/bincom_test/static/css/main.a3534be7.chunk.css",
+    "main.js": "/bincom_test/static/js/main.1d97dc9d.chunk.js",
+    "main.js.map": "/bincom_test/static/js/main.1d97dc9d.chunk.js.map",
+    "runtime~main.js": "/bincom_test/static/js/runtime~main.589c2e2f.js",
+    "runtime~main.js.map": "/bincom_test/static/js/runtime~main.589c2e2f.js.map",
+    "static/css/2.a85399c1.chunk.css": "/bincom_test/static/css/2.a85399c1.chunk.css",
+    "static/js/2.1a543e43.chunk.js": "/bincom_test/static/js/2.1a543e43.chunk.js",
+    "static/js/2.1a543e43.chunk.js.map": "/bincom_test/static/js/2.1a543e43.chunk.js.map",
+    "index.html": "/bincom_test/index.html",
+    "precache-manifest.fef8a1a9b9a71bbe6e1a6102fae2ca02.js": "/bincom_test/precache-manifest.fef8a1a9b9a71bbe6e1a6102fae2ca02.js",
+    "service-worker.js": "/bincom_test/service-worker.js",
+    "static/css/2.a85399c1.chunk.css.map": "/bincom_test/static/css/2.a85399c1.chunk.css.map",
+    "static/css/main.a3534be7.chunk.css.map": "/bincom_test/static/css/main.a3534be7.chunk.css.map",
+    "static/media/3.gif": "/bincom_test/static/media/3.cffa9d9d.gif",
+    "static/media/font-awesome.min.css": "/bincom_test/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
