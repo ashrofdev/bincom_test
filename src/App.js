@@ -72,13 +72,7 @@ class App extends Component {
           this.setState({PDP: PDPsum})
           
         })
-          
-          
-          
-          
-          
-          
-          
+            
           
         console.log(this.state)
 
@@ -86,7 +80,7 @@ class App extends Component {
           ACN += e
           this.setState({ACN: ACN})
         })
-        data.PDP.forEach(e=>{
+        data.DPP.forEach(e=>{
           DPP += e
           this.setState({DPP: DPP})
         })
@@ -146,7 +140,6 @@ class App extends Component {
               <p>ACN: {this.state.ACN}</p>
               <p>PPA: {this.state.PPA}</p>
               <p>CDC: {this.state.CDC}</p>
-              <p>JP: {this.state.JP}</p>
               <p>ANPP: {this.state.ANPP}</p>
               <p>LABOUR: {this.state.LABOUR}</p>
               <p>CPP: {this.state.CPP}</p>
