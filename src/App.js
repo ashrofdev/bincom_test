@@ -70,24 +70,50 @@ class App extends Component {
         data.PDP.forEach(e=>{
           PDPsum += e
           this.setState({PDP: PDPsum})
+          
+        })
+          
+          
+          
+          
+          
+          
+          
+          
+        console.log(this.state)
+
+        data.ACN.forEach(e=>{
           ACN += e
           this.setState({ACN: ACN})
+        })
+        data.PDP.forEach(e=>{
           DPP += e
           this.setState({DPP: DPP})
-          PPA += e
-          this.setState({PPA: PPA})
-          CDC += e
-          this.setState({CDC: CDC})
-          JP += e
-          this.setState({JP: JP})
-          ANPP += e
-          this.setState({ANPP: ANPP})
-          LABOUR += e
-          this.setState({LABOUR: LABOUR})
-          CPP += e
-          this.setState({CPP: CPP})
         })
-        console.log(this.state)
+        data.PPA.forEach(e=>{
+          PPA += e
+          this.setState({PPA: PPA})          
+        })
+        data.CDC.forEach(e=>{
+          CDC += e
+          this.setState({CDC: CDC})          
+        })
+        data.JP.forEach(e=>{
+          JP += e
+          this.setState({JP: JP})          
+        })
+        data.ANPP.forEach(e=>{
+          ANPP += e
+          this.setState({ANPP: ANPP})          
+        })
+        data.LABOUR.forEach(e=>{
+          LABOUR += e
+          this.setState({LABOUR: LABOUR})         
+        })
+        data.CPP.forEach(e=>{
+          CPP += e
+          this.setState({CPP: CPP})        
+        })
 
       })
   }

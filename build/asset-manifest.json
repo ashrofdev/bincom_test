@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bincom_test/static/css/main.21244a69.chunk.css",
-    "main.js": "/bincom_test/static/js/main.0ba1f3a7.chunk.js",
-    "main.js.map": "/bincom_test/static/js/main.0ba1f3a7.chunk.js.map",
+    "main.js": "/bincom_test/static/js/main.f9a4840b.chunk.js",
+    "main.js.map": "/bincom_test/static/js/main.f9a4840b.chunk.js.map",
     "runtime-main.js": "/bincom_test/static/js/runtime-main.ad4c9285.js",
     "runtime-main.js.map": "/bincom_test/static/js/runtime-main.ad4c9285.js.map",
     "static/css/2.ce3f16d7.chunk.css": "/bincom_test/static/css/2.ce3f16d7.chunk.css",
     "static/js/2.4516dbf1.chunk.js": "/bincom_test/static/js/2.4516dbf1.chunk.js",
     "static/js/2.4516dbf1.chunk.js.map": "/bincom_test/static/js/2.4516dbf1.chunk.js.map",
     "index.html": "/bincom_test/index.html",
-    "precache-manifest.127a57585face70f60415708f3ccb5f4.js": "/bincom_test/precache-manifest.127a57585face70f60415708f3ccb5f4.js",
+    "precache-manifest.ccb3609118343f09f3eb4194db6e844a.js": "/bincom_test/precache-manifest.ccb3609118343f09f3eb4194db6e844a.js",
     "service-worker.js": "/bincom_test/service-worker.js",
     "static/css/2.ce3f16d7.chunk.css.map": "/bincom_test/static/css/2.ce3f16d7.chunk.css.map",
     "static/css/main.21244a69.chunk.css.map": "/bincom_test/static/css/main.21244a69.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.ce3f16d7.chunk.css",
     "static/js/2.4516dbf1.chunk.js",
     "static/css/main.21244a69.chunk.css",
-    "static/js/main.0ba1f3a7.chunk.js"
+    "static/js/main.f9a4840b.chunk.js"
   ]
 }
