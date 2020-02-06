@@ -5,10 +5,10 @@
   "dependencies": {
     "@fortawesome/react-fontawesome": "^0.1.4",
     "font-awesome": "^4.7.0",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^2.2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "^3.3.1"
   },
   "scripts": {
     "start": "react-scripts start",
