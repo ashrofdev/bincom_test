@@ -12,6 +12,9 @@
     text-shadow: .2rem .2rem .5rem green;
 }
 
+P {
+    color: white;
+}
 
 @media only screen and (max-width: 400px) {
     .header h1 {

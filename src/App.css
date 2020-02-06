@@ -1,7 +1,7 @@
 :root {
     --cp: rgba(15, 15, 15, 0.938);
     --cpl: rgba(5, 5, 5, 0.87);
-    --csl: rgb(128, 245, 112);
+    --csl: rgb(36, 155, 20);
     --cs: rgba(14, 94, 3, 0.562);
 }
 
@@ -33,6 +33,17 @@ body {
     font-size: 2rem;
     text-align: center;
 }
+
+button {
+    text-align: center;
+    padding: 2rem;
+    width: max-content;
+    margin: auto;
+    background-color: var(--csl);
+    cursor: pointer;
+    color: white;
+}
+
 footer {
     background-color: black;
     color: gray;
@@ -41,15 +52,8 @@ footer {
     text-align: center;
     justify-self: flex-end;
 }
-
-.loader {
-    display: none;
-    width: 5rem;
-    margin-top: 2rem;
-}
-.load {
-    align-self: center;
-    margin: 2rem auto;
-    display: block;
+.unit_results {
+    font-size: 2rem;
+    padding: 2rem;
     text-align: center;
 }
