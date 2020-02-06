@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac47eac6044d6fe963c28772d8e6b310",
+    "revision": "82d6ed559122ed0ebc9ae32c9bd90025",
     "url": "/bincom_test/index.html"
   },
   {
-    "revision": "06faa6b851b9a84a8f42",
-    "url": "/bincom_test/static/css/2.a85399c1.chunk.css"
+    "revision": "dc3553e8884130d4bc39",
+    "url": "/bincom_test/static/css/2.ce3f16d7.chunk.css"
   },
   {
-    "revision": "b1c407bcf105beca52ba",
-    "url": "/bincom_test/static/css/main.a3534be7.chunk.css"
+    "revision": "971e1cd7488d0d4e22f7",
+    "url": "/bincom_test/static/css/main.21244a69.chunk.css"
   },
   {
-    "revision": "06faa6b851b9a84a8f42",
-    "url": "/bincom_test/static/js/2.1a543e43.chunk.js"
+    "revision": "dc3553e8884130d4bc39",
+    "url": "/bincom_test/static/js/2.4516dbf1.chunk.js"
   },
   {
-    "revision": "b1c407bcf105beca52ba",
-    "url": "/bincom_test/static/js/main.1d97dc9d.chunk.js"
+    "revision": "809f8196affeaac0e5176b72b79c267c",
+    "url": "/bincom_test/static/js/2.4516dbf1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f4985d11d5e32659ddab",
-    "url": "/bincom_test/static/js/runtime~main.589c2e2f.js"
+    "revision": "971e1cd7488d0d4e22f7",
+    "url": "/bincom_test/static/js/main.0ba1f3a7.chunk.js"
   },
   {
-    "revision": "cffa9d9d88890cfcd0ae3d6dd7a6efa9",
-    "url": "/bincom_test/static/media/3.cffa9d9d.gif"
+    "revision": "b42f801c494c062b631d",
+    "url": "/bincom_test/static/js/runtime-main.ad4c9285.js"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",

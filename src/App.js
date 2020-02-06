@@ -23,7 +23,7 @@ class App extends Component {
   }
 
   componentDidMount(){
-    fetch('http://localhost:3002/results').then(res=>{
+    fetch('https://bincomapi.herokuapp.com/results').then(res=>{
       return res.json()
     
       
@@ -46,7 +46,7 @@ class App extends Component {
  
   findResult = () => {
     this.setState({clicked: true})
-    fetch('http://localhost:3002/pdp').then(res=>{
+    fetch('https://bincomapi.herokuapp.com/pdp').then(res=>{
         return res.json()
     
       
